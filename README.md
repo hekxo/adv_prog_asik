@@ -45,7 +45,7 @@ By focusing on these target users, the V Akkurate project aims to provide a comp
 ![First Page](first_page.png)
 
 ## Tools Used
-Certainly! Here's a list of tools and technologies commonly used for a project that involves HTML, CSS, Bootstrap, and JavaScript, along with links to their official sources:
+Here's a list of tools and technologies commonly used for a project that involves HTML, CSS, Bootstrap, and JavaScript, along with links to their official sources:
 
 1. **HTML:**
    - **Description:** HyperText Markup Language for structuring web content.
