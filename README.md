@@ -1,7 +1,7 @@
 # V Akkurate
 
 ## Project Description
-The V Akkurate project was developed with the goal of creating a convenient web application for making appointments for hairdressing services in a barbershop. This web application was developed for clients of the V Akkurate barbershop. Thanks to the project, new opportunities are provided for online registration, for viewing services, for learning about the history of the barbershop, etc.
+The V Akkurate project was developed with the goal of creating a convenient web application for making appointments for hairdressing services in a barbershop. This web application was developed for clients of the V Akkurate barbershop. Thanks to the project, new opportunities are provided for online registration, for viewing services, for learning about the barbershop, etc.
 
 ### Purpose
 The V Akkurate project is designed with the primary objective of providing a user-friendly web application for scheduling appointments for hairdressing services at the V Akkurate barbershop. Tailored specifically for the clientele of the V Akkurate barbershop, this project introduces a range of new opportunities aimed at enhancing the overall customer experience.
@@ -12,9 +12,6 @@ Service Overview:
 
 - Clients have the ability to explore and view the diverse range of services offered by V Akkurate. This feature ensures that customers are well-informed about the available hairdressing services, allowing them to make informed decisions based on their preferences and needs.
 Barbershop History:
-
-- The project includes a section that provides insights into the history of V Akkurate barbershop. Clients can learn about the establishment, its journey, and the values that define the barbershop's identity. This adds a personalized touch to the customer experience, fostering a connection between clients and the establishment.
-Enhanced Online Experience:
 
 - Through the V Akkurate web application, clients gain access to an improved and seamless online experience. The project's features aim to enhance user convenience, making it easier for clients to engage with the barbershop's services and offerings from the comfort of their own devices.
 By achieving these goals, the V Akkurate project not only simplifies the appointment booking process but also enriches the overall interaction between clients and the barbershop. The web application serves as a valuable tool for clients to explore services, schedule appointments, and connect with the history and identity of V Akkurate.
